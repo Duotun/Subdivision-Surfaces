@@ -1,7 +1,7 @@
 # Subdivision-Surfaces
 CMSC424 - Bonus Project
 
-Loop subdivision surface algorithm implementation in Java
+Loop subdivision surface algorithm implementation in Java (jrtr)
 
 ## Demos
 Upper Left: Subdivision 1 time, Right Botttom: Subdivision 2 times
