@@ -8,7 +8,11 @@ Upper Left: Subdivision 1 time, Right Botttom: Subdivision 2 times
 
 1) Without Welding
 
+
+
 2) With Welding
+
+
 
 ## Resources
 
