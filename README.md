@@ -8,6 +8,7 @@ Upper Left: Subdivision 1 time, Right Botttom: Subdivision 2 times
 
 1) Without Welding
 
+![WithoutWelding] (https://raw.githubusercontent.com/duotun/Subdivision-Surfaces/master/Demos/Subdivision Without Welding.gif)
 
 
 2) With Welding
