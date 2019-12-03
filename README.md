@@ -1,3 +1,3 @@
 # Subdivision-Surfaces
 CMSC424 - Bonus Project
-Utilize Loop Division to 
+Loop subdivision surface algorithm implementation in Java
