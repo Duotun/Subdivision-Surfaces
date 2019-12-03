@@ -13,6 +13,7 @@ Upper Left: Subdivision 1 time, Right Botttom: Subdivision 2 times
 
 2) With Welding
 
+![WithWelding](https://github.com/Duotun/Subdivision-Surfaces/blob/master/Demos/Subdivision%20With%20Welding.gif)
 
 
 ## Resources
